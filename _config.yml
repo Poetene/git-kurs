@@ -1,6 +1,5 @@
 name: Git med Poëtene
-markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /git-kurs/
 
 exclude: ["Gemfile", "Gemfile.lock", "README.md", "LICENCE", "Makefile"]

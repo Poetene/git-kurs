@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-sass'
+gem 'jekyll', '3.5'
